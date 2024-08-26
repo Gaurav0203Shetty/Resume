@@ -4,7 +4,7 @@
 **Gaurav Shetty's Resume**
 
 **Overview**<br>
-This repository contains the resume of John Doe. The resume is provided PDF format.<br><br>
+This repository contains the resume of Gaurav Shetty. The resume is provided PDF format.<br><br>
 
 **About Gaurav Shetty**<br>
 I am a committed B.Tech Computer Science Engineering student at Dayananda Sagar University, adept in front-end development, Python, and C programming, with a strong emphasis on problem-solving. My passion for aviation photography enhances my creativity and attention to detail. Additionally, I possess excellent communication and teamwork skills, allowing me to collaborate effectively in diverse environments.<br><br>
